@@ -1,3 +1,5 @@
+# How to check your spending
+
 When you start thinking about investments, ETF and... became rich, you need a starting point! 
 
 The first point is to understand the "as-is situation".
