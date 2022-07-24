@@ -7,8 +7,12 @@
         "id": "34d83fa09d5960de",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "How to check your spending.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "How to check your spending.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "How to check your spending.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "How to check your spending.md"
+              }
             }
           },
           {
@@ -128,7 +136,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "82942f68c00341e7",
+  "active": "34d83fa09d5960de",
   "lastOpenFiles": [
     "How to check your spending.md"
   ]
