@@ -1,4 +1,4 @@
-# Productivity techniquest
+# Productivity techniques
 
 I have created different categories for productivity. Each technique helps to improve you performances in different aspects. 
 
