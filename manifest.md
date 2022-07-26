@@ -23,6 +23,12 @@ You can find 2 major differences between this platform and other blogs:
 2. There are no categories, only one knowledge graph. In some nodes you can find content, so by clicking on a node you can open the content and read it.
 
 
+
+## How to start
+As you can see on top of this page, there is a mental map. By clicking on one clickable topic, you will be redirected to the releated map.
+
+Why some items cannot be clicked? I'm creating the content in my free time so I have to prioritize what to do :) 
+
 ## For nerds
 You don't understand this part? No worries, this is just for  nerds like me ;) 
 
@@ -37,4 +43,5 @@ Currently the tech stack used is really simple:
 - React for the frontend
 - Github is used as database (with content, config files and so on)
 	- "Github as database" is the new "Excel as database" lol
+- Diagrams.net for mental maps
 - I'm trying to keep it simple and not use a backend for now. If needed I will use AWS Lambda (yes, I'm poor, serverless is so cheap <3 )
