@@ -1,0 +1,9 @@
+https://www.homesandgardens.com/interior-design/home-office-productivity-tips
+https://resources.owllabs.com/blog/home-office-setup
+https://www.forbes.com/sites/ashleystahl/2021/04/07/5-ways-to-improve-your-home-office-for-productivity-and-happiness/?sh=58a33ab769bb
+https://www.themuse.com/advice/7-triedandtrue-secrets-for-a-productive-home-office
+https://www.inc.com/larry-kim/9-tips-to-increase-productivity-in-your-home-office.html
+https://www.hongkiat.com/blog/home-office-tips/
+https://balancethegrind.co/workspace/15-tips-home-office-setup-boost-creativity-productivity/
+https://biz30.timedoctor.com/work-from-home-productivity/
+https://www.chicagobooth.edu/review/are-we-really-more-productive-working-home

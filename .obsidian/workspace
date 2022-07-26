@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "productivity-techniques.md",
+            "file": "productivity-goals.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 266.5036334991455
   },
   "right": {
     "id": "a87a01b46292e050",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "productivity-techniques.md",
+                "file": "productivity-goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "productivity-techniques.md",
+                "file": "productivity-goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "productivity-techniques.md"
+                "file": "productivity-goals.md"
               }
             }
           },
@@ -138,6 +138,8 @@
   },
   "active": "34d83fa09d5960de",
   "lastOpenFiles": [
+    "productivity-home-office.md",
+    "productivity-techniques.md",
     "manifest.md",
     "Diseases prevention.md",
     "Health.md",
