@@ -1,4 +1,4 @@
-# The wellbeing frameworm manifest
+# The wellbeing framework manifest
 
 ## Intro
 Hi! I'm Alfonso, an italian Software Engineer. 
