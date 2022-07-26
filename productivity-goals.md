@@ -1,4 +1,5 @@
-# What is a Goal
+# Productivity goals
+## What is a Goal
 
 As Wikipedia sais "A goal is an idea of the future or desired result that a person or a group of people envision, plan and commit to achieve. People endeavour to reach goals within a finite time by setting deadlines."
 
