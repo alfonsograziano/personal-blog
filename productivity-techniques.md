@@ -41,7 +41,7 @@ You can test all the strategies, mix it up, try to understand what it works bett
 
 
 ## Throughput
-[The Pareto principle: 80/20 rule](https://asana.com/resources/pareto-principle-80-20-rule)
+- [The Pareto principle: 80/20 rule](https://asana.com/resources/pareto-principle-80-20-rule)
 - [The “not-to-do list”: A personalized list of tasks and habits you should never do](https://www.spica.com/blog/not-to-do-list)
 -  [The Commitment Inventory](https://todoist.com/productivity-methods/commitment-inventory)
 - [How to Improve Time Management With the DRY Principle](https://www.makeuseof.com/how-to-improve-time-management-dry-principle/)
