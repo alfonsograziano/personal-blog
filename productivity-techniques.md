@@ -36,7 +36,7 @@ You can test all the strategies, mix it up, try to understand what it works bett
 ## 🎯 Prioritization
 - [The Eisenhower Matrix](https://todoist.com/productivity-methods/eisenhower-matrix)
 - [Kanban](https://www.youtube.com/watch?v=iVaFVa7HYj4&ab_channel=Atlassian)
-- [The rule of three]()https://alifeofproductivity.com/rule-of-three/
+- [The rule of three](https://alifeofproductivity.com/rule-of-three/)
 - [What is the "Must, Should, Want" method?](https://www.routine.co/blog/must-should-want-method)
 
 
