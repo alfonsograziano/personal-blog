@@ -22,10 +22,12 @@ I have a single document containing multiple sheets:
 Of course you have to start with a single sheet.
 You can have as mush columns as you want. My advice is: follow the KISS (Keep It Simple, Stupid) principle.
 
-| Date       | Name                 | Price | Category |
-| ---------- | -------------------- | ----- | -------- |
-| 22/07/2022 | Book "Atomic Habits" | 22.50 | Study    |
-| 23/07/2022 | Sushi                | 12.70 | Food     |
+| Date       | Name                 | Price | Category       |
+| ---------- | -------------------- | ----- | -------------- |
+| 22/07/2022 | Book "Atomic Habits" | 22.50 | Study          |
+| 23/07/2022 | Sushi                | 12.70 | Food           |
+| 24/07/2022 | Home Rent            | 350   | Housing        |
+| 24/07/2022 | Car Rent             | 170   | Transportation | 
 
 You can add a lot of multiple categories like: 
 - subcategory
