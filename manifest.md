@@ -1,5 +1,9 @@
 # The wellbeing framework manifest
 
+##### Alert
+This platform is not ready for the public currently, it is under development. In the next weeks/months I will add a lot of useful links and content!
+
+
 ## Intro
 Hi! I'm Alfonso, an italian Software Engineer. 
 As you can guess from this application, I'm not only passionate about Software Engineering.

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "input-swe.md",
+            "file": "manifest.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "input-swe.md",
+                "file": "manifest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "input-swe.md",
+                "file": "manifest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "input-swe.md"
+                "file": "manifest.md"
               }
             }
           },
@@ -138,6 +138,7 @@
   },
   "active": "34d83fa09d5960de",
   "lastOpenFiles": [
+    "input-swe.md",
     "productivity-techniques.md",
     "How to check your spending.md",
     "manifest.md",
