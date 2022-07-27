@@ -60,7 +60,7 @@ Categories are mainly personal but these are general ones working for everyone:
 - [# Best Budgeting Apps](https://www.forbes.com/advisor/banking/best-budgeting-apps/)
 
 ## 🤑 Earning 
-Now you know how mych you spend. The next step is understand your earnings and how they change during the time. 
+Now you know how much you spend. The next step is understand your earnings and how they change during the time. 
 
 In my case I have created another sheet on Google Sheets in the same file. If you are using an app, probably there will be a section to add you earnings. 
 
@@ -84,7 +84,7 @@ The first thing to do is to write them down! If you are paying the car loan for 
 - how much I can repay each month (accordingly to my expenses)
 Then you can figure out how much time you need to estinguish your debt.
 
-THe second thing to do is: try to estinguish it as soon as possible! 
+The second thing to do is: try to estinguish it as soon as possible! 
 
 You can watch this video to better understand: 
 <iframe  src="https://www.youtube.com/embed/S9x1FoosIDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -105,7 +105,7 @@ To understand your net worth you must create another table with months as column
 A worth storage could be an investment, a bank account, a prepaid card and so on.
 This is an example: 
 
-| Storage        | Genuary | February | March | ...   | ... |
+| Storage        | January | February | March | ...   | ... |
 | -------------- | ------- | -------- | ----- | ----- | --- |
 | Bank Account 1 | 1200    | 1350     | 1400  | 1320  |     |
 | Bank Account 2 | 700     | 600      | 800   | 950   |     |
