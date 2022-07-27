@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "productivity-techniques.md",
+            "file": "input-swe.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "productivity-techniques.md",
+                "file": "input-swe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "productivity-techniques.md",
+                "file": "input-swe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "productivity-techniques.md"
+                "file": "input-swe.md"
               }
             }
           },
@@ -138,11 +138,11 @@
   },
   "active": "34d83fa09d5960de",
   "lastOpenFiles": [
+    "productivity-techniques.md",
     "How to check your spending.md",
     "manifest.md",
     "productivity-goals.md",
     "productivity-home-office.md",
-    "productivity-techniques.md",
     "Diseases prevention.md",
     "Health.md",
     "Health 90ec34ac15b645d797e30f67782881dd/Untitled.png.md"
