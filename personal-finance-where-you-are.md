@@ -11,7 +11,7 @@ Spoiler: usually we spend a lot of money, more than we think!
 You can setup a really complex spending checking strategy.
 You can choose between a lot of different budgeting apps (there are a lot of really complete solutions).
 
-My choice is simple: Google Sheets. 
+My choice is simple: **Google Sheets**. 
 I have a single document containing multiple sheets: 
 - a configurable dashboard
 - the spending sheet
@@ -20,7 +20,12 @@ I have a single document containing multiple sheets:
 - net worth and investments
 
 Of course you have to start with a single sheet.
-You can have as mush columns as you want. My advice is: follow the KISS (Keep It Simple, Stupid) principle.
+You can have as much columns as you want. You can add a lot of columns like: 
+- subcategory
+- payiment method
+- notes
+
+ My advice is: follow the KISS (Keep It Simple, Stupid) principle. Start with only the necessary columns that you really need
 
 | Date       | Name                 | Price | Category       |
 | ---------- | -------------------- | ----- | -------------- |
@@ -29,28 +34,19 @@ You can have as mush columns as you want. My advice is: follow the KISS (Keep It
 | 24/07/2022 | Home Rent            | 350   | Housing        |
 | 24/07/2022 | Car Rent             | 170   | Transportation | 
 
-You can add a lot of multiple categories like: 
-- subcategory
-- payiment method
-- notes
+The next step is to **create the habit to add your expenses** in this file. Of course now you have a simple template but you must be patient and populate a new row every time you buy something. Probably, this is the most difficult part
 
-My advices is to keep everything really simple.
-
-The next step is to create the habit to add your expenses in this file. Of course now you have a simple template but you have to be patient and populate a new row every time you buy something.
-
-Probably, create the habit of populate the spendings is the most difficult part.
 
 At the end of the month you can check your spending (using categories you can also check the spending-per-category).
 
 Categories are mainly personal but these are general ones working for everyone: 
--   Housing
--   Transportation
--   Food
--   Utilities
--   Clothing
--   Medical/Healthcare
--   Insurance
-- Household Items/Supplies
+- Housing
+- Transportation
+- Food
+- Utilities
+- Clothing
+- Medical/Healthcare
+- Insurance
 - Personal
 - Debt
 - Education
